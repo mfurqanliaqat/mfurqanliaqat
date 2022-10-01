@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muhammad Furqan Liaqat</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
+<div align="left">
+  <a href="https://app.daily.dev/mfurqanliaqat"  target="_blank">
+    <img 
+    src="https://api.daily.dev/devcards/2826d2b507b644f7a861d862f41754e1.png?r=agw" 
+    width="256"
+      align="right"
+    alt="Muhammad Furqan Liaqat's Dev Card"/>
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfurqanliaqat&label=Profile%20views&color=0e75b6&style=flat" alt="mfurqanliaqat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfurqanliaqat" alt="mfurqanliaqat" /></a> </p>
+
 
 - 👯 My area of interest are **Full Stack Web Development, Cloud Computing**
 
