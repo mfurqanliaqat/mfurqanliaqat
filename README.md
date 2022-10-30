@@ -4,7 +4,7 @@
 <div align="left">
   <a href="https://app.daily.dev/mfurqanliaqat"  target="_blank">
     <img 
-    src="https://api.daily.dev/devcards/2826d2b507b644f7a861d862f41754e1.png?r=agw" 
+    src="https://api.daily.dev/devcards/2826d2b507b644f7a861d862f41754e1.png?r=uve" 
     width="256"
       align="right"
     alt="Muhammad Furqan Liaqat's Dev Card"/>
