@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [mfurqanliaqat.github.io](https://mfurqanliaqat.github.io)
 
-- 📝 I am available on [https://www.fiverr.com/users/mfurqanliaqat](https://www.fiverr.com/users/mfurqanliaqat)
+- 📝 I am available on [Fiverr](https://www.fiverr.com/users/mfurqanliaqat)
 
 - 💬 Ask me about **react, vue, angular, javascript, typescript**
 
