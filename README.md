@@ -17,7 +17,7 @@
 
 - 👯 My area of interest are **Full Stack Web Development, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [mfurqanliaqat.github.io](mfurqanliaqat.github.io)
+- 👨‍💻 All of my projects are available at [mfurqanliaqat.github.io](https://mfurqanliaqat.github.io)
 
 - 📝 I am available on [https://www.fiverr.com/users/mfurqanliaqat](https://www.fiverr.com/users/mfurqanliaqat)
 
