@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="devto logo"  />
   </a>
   <a href="https://fiverr.com/mfurqanliaqat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="hackerrank logo"  />
   </a>
 </div>
 
